@@ -1,0 +1,8 @@
+change log notes
+
+Nov 9 2024 13:12
+
+first commit to github hello world
+create change log notes 
+commit change log notes to github user-joshhdev
+
