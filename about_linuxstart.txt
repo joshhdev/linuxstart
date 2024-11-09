@@ -1,0 +1,6 @@
+This is hello world file for linuxstart
+
+will be setting up github in cli and adding ubuntu support
+
+
+//
