@@ -11,5 +11,13 @@ Nov 10 2024 17:37
 No changes
 update repo
 
+Nov 11 2024 19:50
+
+update from cli
+git origin push main
+git cli not noticing changes to update
+
+
+
 *
 
